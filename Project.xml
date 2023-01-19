@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/PermissionsReporter.Model">
+  <IsActive xmlns="http://schemas.datacontract.org/2004/07/CommunityToolkit.Mvvm.ComponentModel">false</IsActive>
+  <AuthNetworkPaths>false</AuthNetworkPaths>
+  <DomainController z:Id="2"></DomainController>
+  <EnableFileOwnerReport>false</EnableFileOwnerReport>
+  <EnableFilePermissionsReport>true</EnableFilePermissionsReport>
+  <ExcludeSystemFolders>false</ExcludeSystemFolders>
+  <Exclusions z:Id="3" z:Size="0" />
+  <FilePermissionsCompareAllowDeny>true</FilePermissionsCompareAllowDeny>
+  <FilePermissionsCompareInherited>false</FilePermissionsCompareInherited>
+  <FilePermissionsCompareRights>true</FilePermissionsCompareRights>
+  <FilePermissionsExcludeSystemFiles>true</FilePermissionsExcludeSystemFiles>
+  <FilePermissionsFilter>IncludeNonInheritingOrDifferent</FilePermissionsFilter>
+  <FilePermissionsIncludeGreaterThanParent>true</FilePermissionsIncludeGreaterThanParent>
+  <FilePermissionsIncludeLessThanParent>true</FilePermissionsIncludeLessThanParent>
+  <FilePermissionsIncludeNonInheriting>true</FilePermissionsIncludeNonInheriting>
+  <FilePermissionsMaxEntries>999999</FilePermissionsMaxEntries>
+  <FilePermissionsTrackDiffs>true</FilePermissionsTrackDiffs>
+  <Folders z:Id="4" z:Size="1">
+    <ProjectFolder z:Id="5">
+      <IsActive xmlns="http://schemas.datacontract.org/2004/07/CommunityToolkit.Mvvm.ComponentModel">false</IsActive>
+      <FolderPath z:Id="6">C:\Users\gptc\Music\ntfs\</FolderPath>
+      <IsChecked>true</IsChecked>
+    </ProjectFolder>
+  </Folders>
+  <GetGroupMembers>false</GetGroupMembers>
+  <GetNestedGroupMembers>false</GetNestedGroupMembers>
+  <GroupExpandExclusions z:Id="7" z:Size="0" />
+  <ImpersonateNewCredentials>true</ImpersonateNewCredentials>
+  <ImpersonationPassword z:Ref="2" i:nil="true" />
+  <ImpersonationUserAccount z:Id="8">DESKTOP-NBM4NG3\gptc</ImpersonationUserAccount>
+  <LastRun i:nil="true" />
+  <MaxFolderDepth i:nil="true" />
+  <NetworkPathPwd z:Ref="2" i:nil="true" />
+  <NetworkPathUser z:Ref="2" i:nil="true" />
+  <ProjectFilterEnabled>false</ProjectFilterEnabled>
+  <ProjectPath z:Id="9">C:\Users\gptc\Desktop\New folder (2)\Project.xml</ProjectPath>
+  <ScanFilterRuleGroup z:Id="10">
+    <IsActive xmlns="http://schemas.datacontract.org/2004/07/CommunityToolkit.Mvvm.ComponentModel">false</IsActive>
+    <ChildGroups z:Id="11" z:Size="1">
+      <FilterRuleGroup z:Id="12">
+        <IsActive xmlns="http://schemas.datacontract.org/2004/07/CommunityToolkit.Mvvm.ComponentModel">false</IsActive>
+        <ChildGroups z:Id="13" z:Size="0" />
+        <ChildRules z:Id="14" z:Size="0" />
+        <FilterLogicalOperator>And</FilterLogicalOperator>
+        <ParentGroup i:nil="true" />
+      </FilterRuleGroup>
+    </ChildGroups>
+    <ChildRules z:Id="15" z:Size="0" />
+    <FilterLogicalOperator>And</FilterLogicalOperator>
+    <ParentGroup i:nil="true" />
+  </ScanFilterRuleGroup>
+  <SharePermissionsFilter>ReportAllSharesPerHost</SharePermissionsFilter>
+  <ShareReportDomains z:Ref="2" i:nil="true" />
+  <ShareReportHosts z:Ref="2" i:nil="true" />
+  <ShareReportUseWmi>false</ShareReportUseWmi>
+  <ShowExcludedFoldersInResults>false</ShowExcludedFoldersInResults>
+  <SkipReparsePoints>true</SkipReparsePoints>
+  <TreeMapChildGranularity>25</TreeMapChildGranularity>
+  <UseImpersonation>false</UseImpersonation>
+  <Version2MigrationFlag>true</Version2MigrationFlag>
+</Project>
